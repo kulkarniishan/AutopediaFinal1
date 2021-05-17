@@ -1,25 +1,33 @@
-import logo from './logo.svg';
-import './App.css';
+import React from 'react';
+import './App.css'
+import BarChart from './components/Chart/BarChart';
+import CountryPicker from './components/CountryPicker/CountryPicker';
+import SalesData from './vehicleProduction.json';
 
-function App() {
+
+class App extends React.Component{
+
+  state={
+    data:SalesData.Global,
+    country:'Global'
+  }
+
+  handleCountryChange =(country) =>{
+    console.log(country);
+    this.setState({data:SalesData[country], country:country}) 
+    console.log(this.state)
+  }
+
+  render(){
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <div className="chart">
+      <CountryPicker data={SalesData} handleCountryChange={this.handleCountryChange}/>
+      <BarChart data={this.state}/>
+      </div>
     </div>
   );
+    }
 }
 
 export default App;
