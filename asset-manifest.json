@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/AutopediaFinal1/static/css/main.16bafd4a.chunk.css",
+    "main.js": "/AutopediaFinal1/static/js/main.02f6ff6a.chunk.js",
+    "main.js.map": "/AutopediaFinal1/static/js/main.02f6ff6a.chunk.js.map",
+    "runtime-main.js": "/AutopediaFinal1/static/js/runtime-main.b35bfef4.js",
+    "runtime-main.js.map": "/AutopediaFinal1/static/js/runtime-main.b35bfef4.js.map",
+    "static/js/2.6c96fade.chunk.js": "/AutopediaFinal1/static/js/2.6c96fade.chunk.js",
+    "static/js/2.6c96fade.chunk.js.map": "/AutopediaFinal1/static/js/2.6c96fade.chunk.js.map",
+    "static/js/3.cf41ea6c.chunk.js": "/AutopediaFinal1/static/js/3.cf41ea6c.chunk.js",
+    "static/js/3.cf41ea6c.chunk.js.map": "/AutopediaFinal1/static/js/3.cf41ea6c.chunk.js.map",
+    "index.html": "/AutopediaFinal1/index.html",
+    "static/css/main.16bafd4a.chunk.css.map": "/AutopediaFinal1/static/css/main.16bafd4a.chunk.css.map",
+    "static/js/2.6c96fade.chunk.js.LICENSE.txt": "/AutopediaFinal1/static/js/2.6c96fade.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b35bfef4.js",
+    "static/js/2.6c96fade.chunk.js",
+    "static/css/main.16bafd4a.chunk.css",
+    "static/js/main.02f6ff6a.chunk.js"
+  ]
+}
