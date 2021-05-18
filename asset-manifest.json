@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/AutopediaFinal1/static/css/main.16bafd4a.chunk.css",
-    "main.js": "/AutopediaFinal1/static/js/main.02f6ff6a.chunk.js",
-    "main.js.map": "/AutopediaFinal1/static/js/main.02f6ff6a.chunk.js.map",
-    "runtime-main.js": "/AutopediaFinal1/static/js/runtime-main.b35bfef4.js",
-    "runtime-main.js.map": "/AutopediaFinal1/static/js/runtime-main.b35bfef4.js.map",
-    "static/js/2.6c96fade.chunk.js": "/AutopediaFinal1/static/js/2.6c96fade.chunk.js",
-    "static/js/2.6c96fade.chunk.js.map": "/AutopediaFinal1/static/js/2.6c96fade.chunk.js.map",
-    "static/js/3.cf41ea6c.chunk.js": "/AutopediaFinal1/static/js/3.cf41ea6c.chunk.js",
-    "static/js/3.cf41ea6c.chunk.js.map": "/AutopediaFinal1/static/js/3.cf41ea6c.chunk.js.map",
-    "index.html": "/AutopediaFinal1/index.html",
-    "static/css/main.16bafd4a.chunk.css.map": "/AutopediaFinal1/static/css/main.16bafd4a.chunk.css.map",
-    "static/js/2.6c96fade.chunk.js.LICENSE.txt": "/AutopediaFinal1/static/js/2.6c96fade.chunk.js.LICENSE.txt"
+    "main.css": "/chart/static/css/main.c95f7c31.chunk.css",
+    "main.js": "/chart/static/js/main.02f6ff6a.chunk.js",
+    "main.js.map": "/chart/static/js/main.02f6ff6a.chunk.js.map",
+    "runtime-main.js": "/chart/static/js/runtime-main.dd0fe468.js",
+    "runtime-main.js.map": "/chart/static/js/runtime-main.dd0fe468.js.map",
+    "static/js/2.6c96fade.chunk.js": "/chart/static/js/2.6c96fade.chunk.js",
+    "static/js/2.6c96fade.chunk.js.map": "/chart/static/js/2.6c96fade.chunk.js.map",
+    "static/js/3.cf41ea6c.chunk.js": "/chart/static/js/3.cf41ea6c.chunk.js",
+    "static/js/3.cf41ea6c.chunk.js.map": "/chart/static/js/3.cf41ea6c.chunk.js.map",
+    "index.html": "/chart/index.html",
+    "static/css/main.c95f7c31.chunk.css.map": "/chart/static/css/main.c95f7c31.chunk.css.map",
+    "static/js/2.6c96fade.chunk.js.LICENSE.txt": "/chart/static/js/2.6c96fade.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.b35bfef4.js",
+    "static/js/runtime-main.dd0fe468.js",
     "static/js/2.6c96fade.chunk.js",
-    "static/css/main.16bafd4a.chunk.css",
+    "static/css/main.c95f7c31.chunk.css",
     "static/js/main.02f6ff6a.chunk.js"
   ]
 }

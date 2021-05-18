@@ -1,1 +1,0 @@
-{"version":3,"sources":["webpack://src/App.css"],"names":[],"mappings":"AAAA,KACI,oBAAa,CAAb,YAAa,CACb,8BAAuB,CAAvB,sBACJ,CAEA,OACI,UACJ","file":"main.16bafd4a.chunk.css","sourcesContent":[".App{\r\n    display: flex;\r\n    justify-content: center;\r\n}\r\n\r\n.chart{\r\n    width: 100%;\r\n}"]}
